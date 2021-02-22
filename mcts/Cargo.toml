@@ -1,0 +1,13 @@
+[package]
+name = "mcts"
+version = "0.1.0"
+authors = ["Jonah <jonah@biorender.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+petgraph = "*"
+rand = "0.8"
+ordered-float = "*"
+
